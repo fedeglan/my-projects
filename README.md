@@ -6,7 +6,10 @@
 - #### LSTM Neural Nets for Stock Price Prediction
   Building and testing a recurrent neural network with LSTM cells to predict the price of AAPL stock. 
 - #### Pairs Trading StatArb Implementation & Backtesting
+  Standard Statistical Arbitrage approach: implementing and backtesting a Pairs Trading strategy. Example with KO and PEP. 
 - #### DebtRank for Determining Systematic Financial Institutions
+  Building Battiston et al. (2012) DebtRank for determining SIFIs in a banking system.
+  Example with the Argentine banking system (data source: BCRA). 
 - #### Telegram Bot for Scrapping News in Several Latam News Websites  
 - #### VaR implementation and Backtesting
 - #### Radial Basis Function (RBF) ML Network implementation
