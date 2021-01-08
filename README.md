@@ -26,7 +26,7 @@
   Analyzing the distribution of g and r rate across all the constituents of the S&P500 using Gordon Growth model. 
 - #### ISLM Macroeconomic Model
   A simple ILSM model implemented in Python. 
-- #### Bonds Calculator in Python
+- #### [Bonds Calculator in Python](https://github.com/fedeglan/my-projects/blob/main/Code/Bonds%20Calculator.ipynb)
   Full bond calculator: cash flow schedule visualization, NPV and IRR calculation. 
 
 Also, i invite you to visit my Medium page: 
