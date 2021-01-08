@@ -1,5 +1,5 @@
 ## What you will find in this repo
-- #### [Numerical Methods for Pricing Rainbow Options](https://github.com/fedeglan/my-projects/blob/main/Code/Pricing%20Rainbow%20Options.ipynb): 
+- #### [Numerical Methods for Pricing Rainbow Options](https://github.com/fedeglan/my-projects/blob/main/Code/Pricing%20Rainbow%20Options.ipynb)
   Implementing Monte Carlo, Antithetic Monte Carlo and Finite Difference Method to   price a 2D Rainbow option. Convergence and computational cost analysis. 
 - #### [Credit Risk Models Implementation](https://github.com/fedeglan/my-projects/blob/main/Code/Credit%20Risk%20Models.ipynb)
   Analyzing a credit database: data cleaning and visualization, selecting optimal predictors and implementing three models (Logit, ANN & KNN) to predict default probabilities. 
