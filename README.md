@@ -2,8 +2,9 @@
 - #### Numerical Methods for Pricing Rainbow Options: 
   Implementing Monte Carlo, Antithetic Monte Carlo and Finite Difference Method to   price a 2D Rainbow option. Convergence and computational cost analysis. 
 - #### Credit Risk Models Implementation
-  Analyzing a credit database: data cleaning and visualization, selecting optimal predictors and implementing three models (Logit, ANN & KNN) for predicting the probability of default. 
+  Analyzing a credit database: data cleaning and visualization, selecting optimal predictors and implementing three models (Logit, ANN & KNN) to predict default probabilities. 
 - #### LSTM Neural Nets for Stock Price Prediction
+  Building and testing a recurrent neural network with LSTM cells to predict the price of AAPL stock. 
 - #### Pairs Trading StatArb Implementation & Backtesting
 - #### DebtRank for Determining Systematic Financial Institutions
 - #### Telegram Bot for Scrapping News in Several Latam News Websites  
