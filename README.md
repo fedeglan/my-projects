@@ -1,2 +1,2 @@
-# my-projects
-What you will find is this repo? 
+# What you will find in is this repo?
+ - Bond Pricer
