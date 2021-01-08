@@ -1,4 +1,4 @@
-## What you will find in is this repo?
+## What you will find in this repo
 - #### Numerical Methods for Pricing Rainbow Options: 
   Implementing Monte Carlo, Antithetic Monte Carlo and Finite Difference Method to   price a 2D Rainbow option. Convergence and computational cost analysis. 
 - #### Credit Risk Models Implementation
