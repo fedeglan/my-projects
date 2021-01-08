@@ -12,7 +12,7 @@
   Example with the Argentine banking system (data source: BCRA). 
 - #### [Telegram Scrapper Bot](https://github.com/fedeglan/my-projects/blob/main/Code/Telegram%20NewsBot.py)
   Using python-telegram-bot library to build a full-working scrapper bot for Latam news websites. 
-- #### [Least Square Montecarlo Solver](https://github.com/fedeglan/my-projects/blob/main/Code/LSMC.ipynb)
+- #### [Least Square Monte Carlo Solver](https://github.com/fedeglan/my-projects/blob/main/Code/LSMC.ipynb)
   Implementing Longstaff & Schwartz paper (2001) for pricing american options in code. 
 - #### [VaR implementation and Backtesting](https://github.com/fedeglan/my-projects/blob/main/Code/VaR%20estimation%20S%26P500.ipynb)
   Example of VaR estimation with four models: historical simulation, EWMA volatility, MA volatility and GARCH(1,1) volatility. Backtesting using the Unconditional Coverage Test and Violation Ratios. 
