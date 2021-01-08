@@ -1,5 +1,5 @@
 ## What you will find in is this repo?
-- #### Numerical Methods for Pricing Rainbow Options#### : Implementing Monte Carlo, Antithetic Monte Carlo and Finite Difference Method to price a 2D Rainbow option. 
+- #### Numerical Methods for Pricing Rainbow Options #### : Implementing Monte Carlo, Antithetic Monte Carlo and Finite Difference Method to price a 2D Rainbow option. 
 - #### Credit Risk Models Implementation
 - #### LSTM Neural Nets for Stock Price Prediction
 - #### Pairs Trading StatArb Implementation & Backtesting
