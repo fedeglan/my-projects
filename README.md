@@ -24,9 +24,9 @@
   Vanilla options screener including greeks calculation and visualization, put-call parity calculator, options strategy visualization and   implied volatility calculation. 
 - #### Gordon Growth Model: Satistical Analysis Across the S&P500
   Analyzing the distribution of g and r rate across all the constituents of the S&P500 using Gordon Growth model. 
-- #### ISLM Macroeconomic Model in Python
+- #### ISLM Macroeconomic Model
   A simple ILSM model implemented in Python. 
-- #### Bonds Calculator implementation in Python
+- #### Bonds Calculator in Python
   Full bond calculator: cash flow schedule visualization, NPV and IRR calculation. 
 
 Also, i invite you to visit my Medium page: 
